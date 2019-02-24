@@ -874,11 +874,11 @@ a:hover {
 }
 
 .intro .owl-theme .owl-dots .owl-dot:hover span {
-    background-color: #2eca6a;
+    background-color: #f9b914;
 }
 
 .intro .owl-theme .owl-dots .owl-dot.active span {
-    background-color: #2eca6a;
+    background-color: #f9b914;
 }
 
 .intro .intro-item {
@@ -1302,7 +1302,7 @@ a:hover {
 
 .card-box-ico {
     padding: 1rem 3rem 1rem 2.5rem;
-    border: 5px solid #2eca6a;
+    /*border: 5px solid #2eca6a;*/
 }
 
 .card-box-ico span {
