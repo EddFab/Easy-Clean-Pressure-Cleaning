@@ -32,7 +32,7 @@
 
 	/*--/ Carousel owl /--*/
 	$('#carousel').owlCarousel({
-		loop: true,
+		loop: false,
 		margin: -1,
 		items: 1,
 		nav: true,
