@@ -283,7 +283,7 @@ a:hover {
 
 .title-box-d .title-d {
     font-weight: 600;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .title-box-d .title-d:after {
@@ -1420,12 +1420,14 @@ a:hover {
     position: absolute;
     left: 15px;
     bottom: 10px;
+    color: #fff;
 }
 
 .sinse-box .sinse-title {
-    font-weight: 700;
+    font-weight: 500;
     letter-spacing: 0.043em;
     font-size: 1rem;
+    color: #fff;
 }
 
 .sinse-box .sinse-title span {
