@@ -1,3 +1,9 @@
+@media (min-width: 992px) {
+    .testfix{
+        margin-bottom: 50px;
+    }
+}
+
 .headings {
     color: #696969;
 }
