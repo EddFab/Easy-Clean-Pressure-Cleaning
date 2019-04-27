@@ -1635,7 +1635,7 @@ footer .credits {
 }
 
 .btn.btn-a:hover {
-    background-color: #fff;
+    background-color: transparent;
     color: #f9b914;
 }
 

@@ -9,6 +9,11 @@
     border-color: white;
 }
 
+.transp:hover{
+    background-color: transparent;
+    color: #F9B914;
+}
+
 .test-bg{
     background-image: url(/images/test-bg.jpg);
     background-size: cover;
