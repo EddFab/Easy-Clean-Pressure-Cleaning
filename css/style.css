@@ -159,48 +159,6 @@ a:hover {
     left: 0;
 }
 
-/*------/ Pagination-a /------*/
-
-.pagination-a .pagination .page-link {
-    margin: 0 .2rem;
-    border-color: transparent;
-    padding: .5rem .8rem;
-    color: #000000;
-}
-
-.pagination-a .pagination .page-link:hover,
-.pagination-a .pagination .page-link:active,
-.pagination-a .pagination .page-link:focus {
-    background-color: #f9b914;
-}
-
-.pagination-a .pagination .page-link span {
-    font-size: 1.2rem;
-}
-
-.pagination-a .pagination .next .page-link {
-    padding: .4rem .9rem;
-}
-
-.pagination-a .pagination .page-item:last-child .page-link {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-}
-
-.pagination-a .pagination .page-item:first-child .page-link {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-}
-
-.pagination-a .pagination .page-item.disabled .page-link {
-    padding: .4rem .9rem;
-    color: #555555;
-}
-
-.pagination-a .pagination .page-item.active .page-link {
-    background-color: #f9b914;
-}
-
 .a {
     color: #f9b914;
     font-size: 1.3rem;
