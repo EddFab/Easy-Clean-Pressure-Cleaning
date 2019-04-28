@@ -4,9 +4,8 @@
     }
 }
 
-.rounded{
-    border-radius: 5px;
-    border-color: white;
+.rdimgbdr{
+    border: 8px solid #FFF;
 }
 
 .transp:hover{
@@ -15,7 +14,8 @@
 }
 
 .test-bg{
-    background-image: url(/images/test-bg.jpg);
+    /*background-image: url(/images/test-bg.jpg);*/
+    background-color: #f3f3f3;
     background-size: cover;
     background-position: center;    
 }
