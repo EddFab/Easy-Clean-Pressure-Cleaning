@@ -6,17 +6,19 @@ My brother's website for his pressure cleaning business
 
 Technologies used in this project:
 
-1.
+1. Adobe Photoshop
 
-2.
+2. HTML5
 
-3.
+3. CSS3
 
-4.
+4. JavaScript
 
-5.
+5. jQuery
 
-6.
+6. AJAX / PHP
+
+7. Twitter Bootstrap
 
 [Link to the live site]()
 
