@@ -1,23 +1,29 @@
 @media (min-width: 992px) {
-    .testfix{
+    .testfix {
         margin-bottom: 50px;
     }
 }
 
-.rdimgbdr{
+.rdimgbdr {
     border: 8px solid #FFF;
 }
 
-.transp:hover{
+.cust-btn {
+    color: #fff;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.transp:hover {
     background-color: transparent;
     color: #F9B914;
 }
 
-.test-bg{
+.test-bg {
     /*background-image: url(/images/test-bg.jpg);*/
     background-color: #f3f3f3;
     background-size: cover;
-    background-position: center;    
+    background-position: center;
 }
 
 .headings {
@@ -28,11 +34,11 @@
     height: 10px;
 }
 
-#blur{
+#blur {
     box-shadow: 0px 10px 20px -10px;
 }
 
-.blur{
+.blur {
     box-shadow: 0px 10px 20px -0px;
 }
 

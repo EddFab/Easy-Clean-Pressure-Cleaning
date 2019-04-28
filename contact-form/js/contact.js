@@ -8,8 +8,7 @@ $(function () {
 
 
     // when the form is submitted
-    $('#contact-form').on('submit', function (e) {
-        
+    $('#contact-form').on('submit', function (e) {        
         
 
         // if the validator does not prevent form submit
